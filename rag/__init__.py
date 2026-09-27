@@ -1,0 +1,1 @@
+"""Metadata-aware RAG assistant."""
